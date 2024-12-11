@@ -14,12 +14,6 @@
 @import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,800);
 @import url(https://fonts.googleapis.com/css?family=Oswald);
 @import url(https://fonts.googleapis.com/css?family=Quattrocento);
-@import url();
-@import url();
-@import url();
-@import url();
-@import url();
-@import url();
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900");
 
 /*
@@ -421,7 +415,7 @@ width: 115px;
   }
   .carousel .carousel-inner,
   .carousel .carousel-inner .carousel-item img{
-    height: 76vh;
+    height: 50vh;
     width: 100%;
   }
   .carousel .carousel-inner .carousel-item h1{
