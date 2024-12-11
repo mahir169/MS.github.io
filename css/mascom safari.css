@@ -1,4 +1,4 @@
-/**************************************************
+³/**************************************************
 ********  MASCOM SAFARI STYLE              ********                             
 ---------------------------------------------------
 ********  Coding@scom ft-002               ********                              
@@ -243,8 +243,8 @@ width: 115px;
 }
 
 /***** responsive *****/
-@media(max-width: 760px){
-  body,.container,container-fluid {
+@media(max-width: 530px){
+  *{
     overflow: hidden;
   }
   .topbar{
@@ -407,7 +407,7 @@ width: 115px;
 }
 
 /***** responsive *****/
-@media(max-width:780px){
+@media(max-width:530px){
   .carousel{
     top: 0;
     margin: 0;
@@ -415,6 +415,7 @@ width: 115px;
     width: 100%;
     position: relative;
     z-index: 1;
+    overflow: hidden;
   }
   .carousel .carousel-inner,
   .carousel .carousel-inner .carousel-item img{
