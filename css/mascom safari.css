@@ -244,6 +244,9 @@ width: 115px;
 
 /***** responsive *****/
 @media(max-width: 760px){
+  body,.container,container-fluid {
+    overflow: hidden;
+  }
   .topbar{
     display: none;
   }
