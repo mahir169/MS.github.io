@@ -243,7 +243,8 @@ width: 115px;
 }
 
 /***** responsive *****/
-@media(max-width: 530px){
+@media(max-width: ){
+
   *{
     overflow: hidden;
   }
