@@ -244,7 +244,7 @@ width: 115px;
 
 /***** responsive *****/
 @media(max-width: 530px){
-  body,.navbar,.carousel-inner{
+  .navbar{
     overflow: hidden;
   }
   .topbar{
