@@ -275,7 +275,7 @@ width: 115px;
     position: absolute;
     right: -100%;
     top: 70px;
-    width: 80%;
+    width: 75%;
     height: 50vh;
     text-align: center;
     margin: 0;
@@ -288,10 +288,10 @@ width: 115px;
     color: #dad9d9;
     align-items: center;
     margin: 0;
-    height: 65px;
+    height: 30px;
     box-shadow: 0 2px 5px 0 rgba(255, 255, 255, 0.212), 0 6px 20px 0 rgba(255, 255, 255, 0.192);
     width: 100%;
-    padding: 18px 0;
+    padding: 10px 0;
   }
   .navbar .nav li:hover{
     background-color: #06016b;
